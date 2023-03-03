@@ -1,0 +1,15 @@
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\AtestatMagazin.mdf
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\AtestatMagazin_log.ldf
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\AtestatMagazinDataSet.Designer.cs
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\AtestatMagazinDataSet.xsc
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\AtestatMagazinDataSet.xsd
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\AtestatMagazinDataSet.xss
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+c:\users\exoduss\documents\visual studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb
+C:\Users\eXoDuSs\Documents\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
